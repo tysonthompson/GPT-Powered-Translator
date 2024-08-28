@@ -1,3 +1,7 @@
+
+![example translate gif](https://github.com/user-attachments/assets/b4d3fabf-d16d-484f-87a7-a7f2114d9980)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
